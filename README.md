@@ -1,4 +1,4 @@
-# Mauina-de-vendas
+# Maquina-de-vendas
 #verificarProduto
 def verificarProduto(produto):
     while int(produto) > 4 or int(produto) < 0:
